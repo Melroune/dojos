@@ -1,3 +1,3 @@
 # dojos
 
-- [POO](02-POO) 
+- [POO](02-POO) (Programmation orienté objet)
