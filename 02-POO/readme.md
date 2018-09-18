@@ -13,7 +13,7 @@ Bonus : Faites hériter la classe Wilder de la classe Student
 ```
 class Student {
    whoAmI() {
-     console.log("I'm a random a student");
+     console.log("I'm a random student");
    }
 }
 ```
