@@ -10,7 +10,7 @@ Bonus : Faites hériter la classe Wilder de la classe Student
 
 
 
-```
+``` javascript
 class Student {
    whoAmI() {
      console.log("I'm a random student");
